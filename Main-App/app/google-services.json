@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "151586405897",
+    "firebase_url": "https://tanjina-9ef20.firebaseio.com",
+    "project_id": "tanjina-9ef20",
+    "storage_bucket": "tanjina-9ef20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151586405897:android:e606a263c87f329d",
+        "android_client_info": {
+          "package_name": "com.example.tanjina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151586405897-q9cvaahod125b80ta134umi2hol5j97i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanjina",
+            "certificate_hash": "e44f167b19a22ab40fbc76cfd10271e45d81699d"
+          }
+        },
+        {
+          "client_id": "151586405897-9kothpcpjcbd4i2rlsus9a0rldcg1a4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluDwKCPiI-SwNGooi_LnRYUisKjtEYFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151586405897-9kothpcpjcbd4i2rlsus9a0rldcg1a4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
